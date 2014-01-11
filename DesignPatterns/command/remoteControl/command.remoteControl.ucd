@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" size="2860,1068" id="command.remoteControl" metadata="uml2-1.0" initialized="true" scrolledX="270" tag="1000" key="32303036303332302044657369676E5061747465726E732F796875">
+  <children xsi:type="editmodel:ClassEditModel" name="Hottub" location="785,540" size="129,265" id="command.remoteControl/Hottub">
+    <children xsi:type="editmodel:CompartmentEditModel" size="94,36">
+      <children xsi:type="editmodel:AttributeEditModel" name="on" id="command.remoteControl/Hottub#on"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="temperature" id="command.remoteControl/Hottub#temperature"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="106,180">
+      <children xsi:type="editmodel:MethodEditModel" name="Hottub" id="command.remoteControl/Hottub#Hottub()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="bubblesOff" id="command.remoteControl/Hottub#bubblesOff()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="bubblesOn" id="command.remoteControl/Hottub#bubblesOn()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="cool" id="command.remoteControl/Hottub#cool()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="heat" id="command.remoteControl/Hottub#heat()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="jetsOff" id="command.remoteControl/Hottub#jetsOff()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="jetsOn" id="command.remoteControl/Hottub#jetsOn()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="off" id="command.remoteControl/Hottub#off()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="on" id="command.remoteControl/Hottub#on()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setTemperature" id="command.remoteControl/Hottub#setTemperature(I)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="RemoteLoader" location="420,397" size="136,67" id="command.remoteControl/RemoteLoader" runTimeClassModel="main([Ljava.lang.String;)">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="52,18">
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="command.remoteControl/RemoteLoader#main([Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Stereo" location="20,162" size="113,193" id="command.remoteControl/Stereo">
+    <children xsi:type="editmodel:CompartmentEditModel" size="90,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="location" id="command.remoteControl/Stereo#location"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="81,126">
+      <children xsi:type="editmodel:MethodEditModel" name="Stereo" id="command.remoteControl/Stereo#Stereo(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="off" id="command.remoteControl/Stereo#off()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="on" id="command.remoteControl/Stereo#on()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setCD" id="command.remoteControl/Stereo#setCD()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setDVD" id="command.remoteControl/Stereo#setDVD()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setRadio" id="command.remoteControl/Stereo#setRadio()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setVolume" id="command.remoteControl/Stereo#setVolume(I)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="TV" location="12,390" size="130,157" id="command.remoteControl/TV">
+    <children xsi:type="editmodel:CompartmentEditModel" size="90,36">
+      <children xsi:type="editmodel:AttributeEditModel" name="channel" id="command.remoteControl/TV#channel"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="location" id="command.remoteControl/TV#location"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="107,72">
+      <children xsi:type="editmodel:MethodEditModel" name="TV" id="command.remoteControl/TV#TV(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="off" id="command.remoteControl/TV#off()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="on" id="command.remoteControl/TV#on()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setInputChannel" id="command.remoteControl/TV#setInputChannel()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Light" location="976,560" size="113,121" id="command.remoteControl/Light">
+    <children xsi:type="editmodel:CompartmentEditModel" size="90,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="location" location="-19,26" id="command.remoteControl/Light#location"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="53,54">
+      <children xsi:type="editmodel:MethodEditModel" name="Light" id="command.remoteControl/Light#Light(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="off" id="command.remoteControl/Light#off()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="on" id="command.remoteControl/Light#on()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="RemoteControl" location="430,100" size="168,175" id="command.remoteControl/RemoteControl" runTimeClassModel="offCommands,offButtonWasPushed(I),toString(),onCommands,RemoteControl(),setCommand(ILcommand.remoteControl.Command;Lcommand.remoteControl.Command;),onButtonWasPushed(I)">
+    <children xsi:type="editmodel:CompartmentEditModel" size="145,36">
+      <children xsi:type="editmodel:AttributeEditModel" name="offCommands" id="command.remoteControl/RemoteControl#offCommands"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="onCommands" id="command.remoteControl/RemoteControl#onCommands"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="133,90">
+      <children xsi:type="editmodel:MethodEditModel" name="RemoteControl" id="command.remoteControl/RemoteControl#RemoteControl()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="offButtonWasPushed" id="command.remoteControl/RemoteControl#offButtonWasPushed(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="onButtonWasPushed" id="command.remoteControl/RemoteControl#onButtonWasPushed(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="setCommand" id="command.remoteControl/RemoteControl#setCommand(ILcommand.remoteControl.Command;Lcommand.remoteControl.Command;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="toString" id="command.remoteControl/RemoteControl#toString()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="CeilingFan" location="20,570" size="113,247" id="command.remoteControl/CeilingFan">
+    <children xsi:type="editmodel:CompartmentEditModel" size="90,90">
+      <children xsi:type="editmodel:AttributeEditModel" name="hIGH" id="command.remoteControl/CeilingFan#hIGH"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="lOW" id="command.remoteControl/CeilingFan#lOW"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="level" id="command.remoteControl/CeilingFan#level"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="location" id="command.remoteControl/CeilingFan#location"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="mEDIUM" id="command.remoteControl/CeilingFan#mEDIUM"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="79,108">
+      <children xsi:type="editmodel:MethodEditModel" name="CeilingFan" id="command.remoteControl/CeilingFan#CeilingFan(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="getSpeed" id="command.remoteControl/CeilingFan#getSpeed()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="high" id="command.remoteControl/CeilingFan#high()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="low" id="command.remoteControl/CeilingFan#low()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="medium" id="command.remoteControl/CeilingFan#medium()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="off" id="command.remoteControl/CeilingFan#off()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="GarageDoor" location="1150,570" size="119,175" id="command.remoteControl/GarageDoor">
+    <children xsi:type="editmodel:CompartmentEditModel" size="90,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="location" id="command.remoteControl/GarageDoor#location"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="89,108">
+      <children xsi:type="editmodel:MethodEditModel" name="GarageDoor" id="command.remoteControl/GarageDoor#GarageDoor(Ljava.lang.String;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="down" id="command.remoteControl/GarageDoor#down()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="lightOff" id="command.remoteControl/GarageDoor#lightOff()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="lightOn" id="command.remoteControl/GarageDoor#lightOn()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="stop" id="command.remoteControl/GarageDoor#stop()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="up" id="command.remoteControl/GarageDoor#up()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="HottubOffCommand" location="710,379" size="166,103" id="command.remoteControl/HottubOffCommand">
+    <children xsi:type="editmodel:CompartmentEditModel" size="86,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="hottub" id="command.remoteControl/HottubOffCommand#hottub"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="124,36">
+      <children xsi:type="editmodel:MethodEditModel" name="HottubOffCommand" id="command.remoteControl/HottubOffCommand#HottubOffCommand(Lcommand.remoteControl.Hottub;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="execute" id="command.remoteControl/HottubOffCommand#execute()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" id="command.remoteControl/Command&lt;-command.remoteControl/HottubOffCommand" source="//@children.8" target="//@children.16/@sourceConnections.0" targetEnd="//@children.8/@sourceConnections.0/@children.1" sourceEnd="//@children.8/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="83,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="107,43"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="GarageDoorUpCommand" location="1150,379" size="201,103" id="command.remoteControl/GarageDoorUpCommand">
+    <children xsi:type="editmodel:CompartmentEditModel" size="141,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="garageDoor" id="command.remoteControl/GarageDoorUpCommand#garageDoor"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="149,36">
+      <children xsi:type="editmodel:MethodEditModel" name="GarageDoorUpCommand" id="command.remoteControl/GarageDoorUpCommand#GarageDoorUpCommand(Lcommand.remoteControl.GarageDoor;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="execute" id="command.remoteControl/GarageDoorUpCommand#execute()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="command.remoteControl/Command&lt;-command.remoteControl/GarageDoorUpCommand" source="//@children.9" target="//@children.16/@sourceConnections.0" targetEnd="//@children.9/@sourceConnections.0/@children.1" sourceEnd="//@children.9/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="100,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="LivingroomLightOffCommand" location="1410,370" size="229,103" id="command.remoteControl/LivingroomLightOffCommand">
+    <children xsi:type="editmodel:CompartmentEditModel" size="67,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="light" id="command.remoteControl/LivingroomLightOffCommand#light"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="168,36">
+      <children xsi:type="editmodel:MethodEditModel" name="LivingroomLightOffCommand" id="command.remoteControl/LivingroomLightOffCommand#LivingroomLightOffCommand(Lcommand.remoteControl.Light;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="execute" id="command.remoteControl/LivingroomLightOffCommand#execute()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" id="command.remoteControl/Command&lt;-command.remoteControl/LivingroomLightOffCommand" source="//@children.10" target="//@children.16/@sourceConnections.0" targetEnd="//@children.10/@sourceConnections.0/@children.1" sourceEnd="//@children.10/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="114,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="38,0" anchorKind="FixedAtEdge"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="StereoOnWithCDCommand" location="1590,390" size="214,103" id="command.remoteControl/StereoOnWithCDCommand">
+    <children xsi:type="editmodel:CompartmentEditModel" size="88,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="stereo" id="command.remoteControl/StereoOnWithCDCommand#stereo"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="158,36">
+      <children xsi:type="editmodel:MethodEditModel" name="StereoOnWithCDCommand" id="command.remoteControl/StereoOnWithCDCommand#StereoOnWithCDCommand(Lcommand.remoteControl.Stereo;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="execute" id="command.remoteControl/StereoOnWithCDCommand#execute()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="command.remoteControl/Command&lt;-command.remoteControl/StereoOnWithCDCommand" source="//@children.11" target="//@children.16/@sourceConnections.0" targetEnd="//@children.11/@sourceConnections.0/@children.1" sourceEnd="//@children.11/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="107,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="GarageDoorDownCommand" location="1010,181" size="220,103" id="command.remoteControl/GarageDoorDownCommand">
+    <children xsi:type="editmodel:CompartmentEditModel" size="141,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="garageDoor" id="command.remoteControl/GarageDoorDownCommand#garageDoor"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="165,36">
+      <children xsi:type="editmodel:MethodEditModel" name="GarageDoorDownCommand" id="command.remoteControl/GarageDoorDownCommand#GarageDoorDownCommand(Lcommand.remoteControl.GarageDoor;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="execute" id="command.remoteControl/GarageDoorDownCommand#execute()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="command.remoteControl/Command&lt;-command.remoteControl/GarageDoorDownCommand" source="//@children.12" target="//@children.16/@sourceConnections.0" targetEnd="//@children.12/@sourceConnections.0/@children.1" sourceEnd="//@children.12/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="110,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="LightOnCommand" location="820,181" size="157,103" id="command.remoteControl/LightOnCommand">
+    <children xsi:type="editmodel:CompartmentEditModel" size="67,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="light" id="command.remoteControl/LightOnCommand#light"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="114,36">
+      <children xsi:type="editmodel:MethodEditModel" name="LightOnCommand" id="command.remoteControl/LightOnCommand#LightOnCommand(Lcommand.remoteControl.Light;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="execute" id="command.remoteControl/LightOnCommand#execute()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="command.remoteControl/Command&lt;-command.remoteControl/LightOnCommand" source="//@children.13" target="//@children.16/@sourceConnections.0" targetEnd="//@children.13/@sourceConnections.0/@children.1" sourceEnd="//@children.13/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="78,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="CeilingFanOffCommand" location="1910,181" size="194,103" id="command.remoteControl/CeilingFanOffCommand">
+    <children xsi:type="editmodel:CompartmentEditModel" size="122,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="ceilingFan" id="command.remoteControl/CeilingFanOffCommand#ceilingFan"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="142,36">
+      <children xsi:type="editmodel:MethodEditModel" name="CeilingFanOffCommand" id="command.remoteControl/CeilingFanOffCommand#CeilingFanOffCommand(Lcommand.remoteControl.CeilingFan;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="execute" id="command.remoteControl/CeilingFanOffCommand#execute()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="command.remoteControl/Command&lt;-command.remoteControl/CeilingFanOffCommand" source="//@children.14" target="//@children.16/@sourceConnections.0" targetEnd="//@children.14/@sourceConnections.0/@children.1" sourceEnd="//@children.14/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="95,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="LivingroomLightOnCommand" location="1660,181" size="229,103" id="command.remoteControl/LivingroomLightOnCommand">
+    <children xsi:type="editmodel:CompartmentEditModel" size="67,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="light" id="command.remoteControl/LivingroomLightOnCommand#light"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="166,36">
+      <children xsi:type="editmodel:MethodEditModel" name="LivingroomLightOnCommand" id="command.remoteControl/LivingroomLightOnCommand#LivingroomLightOnCommand(Lcommand.remoteControl.Light;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="execute" id="command.remoteControl/LivingroomLightOnCommand#execute()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" id="command.remoteControl/Command&lt;-command.remoteControl/LivingroomLightOnCommand" source="//@children.15" target="//@children.16/@sourceConnections.0" targetEnd="//@children.15/@sourceConnections.0/@children.1" sourceEnd="//@children.15/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="114,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="54,0"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="HottubOnCommand" location="620,181" size="166,103" id="command.remoteControl/HottubOnCommand">
+    <children xsi:type="editmodel:CompartmentEditModel" size="86,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="hottub" id="command.remoteControl/HottubOnCommand#hottub"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="122,36">
+      <children xsi:type="editmodel:MethodEditModel" name="HottubOnCommand" id="command.remoteControl/HottubOnCommand#HottubOnCommand(Lcommand.remoteControl.Hottub;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="execute" id="command.remoteControl/HottubOnCommand#execute()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" targetConnections="//@children.9/@sourceConnections.0 //@children.18/@sourceConnections.0 //@children.11/@sourceConnections.0 //@children.13/@sourceConnections.0 //@children.17/@sourceConnections.0 //@children.21/@sourceConnections.0 //@children.19/@sourceConnections.0 //@children.14/@sourceConnections.0 //@children.12/@sourceConnections.0 //@children.10/@sourceConnections.0 //@children.15/@sourceConnections.0 //@children.8/@sourceConnections.0" id="command.remoteControl/Command&lt;-command.remoteControl/HottubOnCommand" source="//@children.16" target="//@children.20" targetEnd="//@children.16/@sourceConnections.0/@children.1" sourceEnd="//@children.16/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="83,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="53,81" anchorKind="FixedAtEdge"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="CeilingFanOnCommand" location="1480,240" size="194,103" id="command.remoteControl/CeilingFanOnCommand">
+    <children xsi:type="editmodel:CompartmentEditModel" size="122,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="ceilingFan" id="command.remoteControl/CeilingFanOnCommand#ceilingFan"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="140,36">
+      <children xsi:type="editmodel:MethodEditModel" name="CeilingFanOnCommand" id="command.remoteControl/CeilingFanOnCommand#CeilingFanOnCommand(Lcommand.remoteControl.CeilingFan;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="execute" id="command.remoteControl/CeilingFanOnCommand#execute()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="command.remoteControl/Command&lt;-command.remoteControl/CeilingFanOnCommand" source="//@children.17" target="//@children.16/@sourceConnections.0" targetEnd="//@children.17/@sourceConnections.0/@children.1" sourceEnd="//@children.17/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="97,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="LightOffCommand" location="913,379" size="157,103" id="command.remoteControl/LightOffCommand" runTimeClassModel="light,LightOffCommand(Lcommand.remoteControl.Light;),execute()">
+    <children xsi:type="editmodel:CompartmentEditModel" size="67,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="light" id="command.remoteControl/LightOffCommand#light"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="116,36">
+      <children xsi:type="editmodel:MethodEditModel" name="LightOffCommand" id="command.remoteControl/LightOffCommand#LightOffCommand(Lcommand.remoteControl.Light;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="execute" id="command.remoteControl/LightOffCommand#execute()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="command.remoteControl/Command&lt;-command.remoteControl/LightOffCommand" source="//@children.18" target="//@children.16/@sourceConnections.0" targetEnd="//@children.18/@sourceConnections.0/@children.1" sourceEnd="//@children.18/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="78,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="StereoOffCommand" location="1860,390" size="167,103" id="command.remoteControl/StereoOffCommand">
+    <children xsi:type="editmodel:CompartmentEditModel" size="88,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="stereo" id="command.remoteControl/StereoOffCommand#stereo"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="125,36">
+      <children xsi:type="editmodel:MethodEditModel" name="StereoOffCommand" id="command.remoteControl/StereoOffCommand#StereoOffCommand(Lcommand.remoteControl.Stereo;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="execute" id="command.remoteControl/StereoOffCommand#execute()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="command.remoteControl/Command&lt;-command.remoteControl/StereoOffCommand" source="//@children.19" target="//@children.16/@sourceConnections.0" targetEnd="//@children.19/@sourceConnections.0/@children.1" sourceEnd="//@children.19/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="83,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:InterfaceEditModel" targetConnections="//@children.16/@sourceConnections.0" name="Command" location="913,40" size="107,81" id="command.remoteControl/Command">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="69,18">
+      <children xsi:type="editmodel:MethodEditModel" name="execute" id="command.remoteControl/Command#execute()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="NoCommand" location="1268,190" size="124,67" id="command.remoteControl/NoCommand">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="69,18">
+      <children xsi:type="editmodel:MethodEditModel" name="execute" id="command.remoteControl/NoCommand#execute()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="command.remoteControl/Command&lt;-command.remoteControl/NoCommand" source="//@children.21" target="//@children.16/@sourceConnections.0" targetEnd="//@children.21/@sourceConnections.0/@children.1" sourceEnd="//@children.21/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="62,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <diagramOptions xsi:type="options:ClassDiagramOptions" properties="wireOptions=1" autoName="false"/>
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="10,10" gridOrigin="0,0" rulerUnit="pixel">
+    <leftRuler/>
+    <topRuler/>
+  </boardSetting>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" attributeSorter="Natural" methodSorter="Natural" showClassStereotype="true" showPackageStereotype="true" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showInterfaceStereotype="true" showAttributeProperty="true"/>
+</editmodel:ClassDiagramEditModel>

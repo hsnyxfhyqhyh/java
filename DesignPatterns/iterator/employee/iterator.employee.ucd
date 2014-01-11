@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:ClassDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" size="1295,607" id="iterator.employee" metadata="uml2-1.0" initialized="true" tag="1000" key="32303036303332302044657369676E5061747465726E732F796875">
+  <children xsi:type="editmodel:ClassEditModel" name="Client" location="328,40" size="79,67" id="iterator.employee/Client" runTimeClassModel="main([Ljava.lang.String;)">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="52,18">
+      <children xsi:type="editmodel:MethodEditModel" name="main" id="iterator.employee/Client#main([Ljava.lang.String;)"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.2/@sourceConnections.0" name="ListItem" location="543,40" size="92,67" id="iterator.employee/ListItem" runTimeClassModel="print()">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="51,18">
+      <children xsi:type="editmodel:MethodEditModel" name="print" id="iterator.employee/ListItem#print()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="Employee" location="760,40" size="121,157" id="iterator.employee/Employee" runTimeClassModel="lastname,Employee(),print(),age,Employee(Ljava.lang.String;Ljava.lang.String;I),firstname">
+    <children xsi:type="editmodel:CompartmentEditModel" size="98,54">
+      <children xsi:type="editmodel:AttributeEditModel" name="age" id="iterator.employee/Employee#age"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="firstname" id="iterator.employee/Employee#firstname"/>
+      <children xsi:type="editmodel:AttributeEditModel" name="lastname" id="iterator.employee/Employee#lastname"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="76,54">
+      <children xsi:type="editmodel:MethodEditModel" name="Employee" id="iterator.employee/Employee#Employee()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="Employee" id="iterator.employee/Employee#Employee(Ljava.lang.String;Ljava.lang.String;I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="print" id="iterator.employee/Employee#print()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="iterator.employee/ListItem&lt;-iterator.employee/Employee" source="//@children.2" target="//@children.1" targetEnd="//@children.2/@sourceConnections.0/@children.1" sourceEnd="//@children.2/@sourceConnections.0/@children.0" connectionRouterKind="Manual">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="0,33" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="92,33"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="ReverseListIterator" location="246,369" size="161,157" id="iterator.employee/ReverseListIterator" runTimeClassModel="currentItem(),next(),ReverseListIterator(Literator.employee.List;),isDone(),first(),last()">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="122,108">
+      <children xsi:type="editmodel:MethodEditModel" name="ReverseListIterator" id="iterator.employee/ReverseListIterator#ReverseListIterator(Literator.employee.List;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="currentItem" id="iterator.employee/ReverseListIterator#currentItem()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="first" id="iterator.employee/ReverseListIterator#first()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isDone" id="iterator.employee/ReverseListIterator#isDone()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="last" id="iterator.employee/ReverseListIterator#last()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="next" id="iterator.employee/ReverseListIterator#next()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="iterator.employee/Iterator&lt;-iterator.employee/ReverseListIterator" source="//@children.3" target="//@children.5/@sourceConnections.0" targetEnd="//@children.3/@sourceConnections.0/@children.1" sourceEnd="//@children.3/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="80,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.5/@sourceConnections.0" name="Iterator" location="190,180" size="107,139" id="iterator.employee/Iterator" runTimeClassModel="currentItem(),next(),isDone(),first(),last()">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="84,90">
+      <children xsi:type="editmodel:MethodEditModel" name="currentItem" id="iterator.employee/Iterator#currentItem()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="first" id="iterator.employee/Iterator#first()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isDone" id="iterator.employee/Iterator#isDone()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="last" id="iterator.employee/Iterator#last()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="next" id="iterator.employee/Iterator#next()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="ListIterator" location="106,369" size="110,157" id="iterator.employee/ListIterator" runTimeClassModel="currentItem(),next(),ListIterator(Literator.employee.List;),isDone(),first(),last()">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="84,108">
+      <children xsi:type="editmodel:MethodEditModel" name="ListIterator" id="iterator.employee/ListIterator#ListIterator(Literator.employee.List;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="currentItem" id="iterator.employee/ListIterator#currentItem()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="first" id="iterator.employee/ListIterator#first()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="isDone" id="iterator.employee/ListIterator#isDone()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="last" id="iterator.employee/ListIterator#last()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="next" id="iterator.employee/ListIterator#next()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" targetConnections="//@children.3/@sourceConnections.0" autoLocated="true" id="iterator.employee/Iterator&lt;-iterator.employee/ListIterator" source="//@children.5" target="//@children.4" targetEnd="//@children.5/@sourceConnections.0/@children.1" sourceEnd="//@children.5/@sourceConnections.0/@children.0" connectionRouterKind="GeneralizationManhattan">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="55,0" anchorKind="FixedAtEdge" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="53,139" anchorKind="FixedAtEdge"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" targetConnections="//@children.7/@sourceConnections.0" name="List" location="461,180" size="118,139" id="iterator.employee/List" runTimeClassModel="append(Literator.employee.ListItem;),remove(),count(),get(I),createIterator(I)">
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <children xsi:type="editmodel:CompartmentEditModel" size="95,90">
+      <children xsi:type="editmodel:MethodEditModel" name="append" id="iterator.employee/List#append(Literator.employee.ListItem;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="count" id="iterator.employee/List#count()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="createIterator" id="iterator.employee/List#createIterator(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="get" id="iterator.employee/List#get(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="remove" id="iterator.employee/List#remove()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <children xsi:type="editmodel:ClassEditModel" name="EmployeeList" location="457,369" size="127,175" id="iterator.employee/EmployeeList" runTimeClassModel="i,remove(),append(Literator.employee.ListItem;),EmployeeList(),count(),get(I),createIterator(I)">
+    <children xsi:type="editmodel:CompartmentEditModel" size="61,18">
+      <children xsi:type="editmodel:AttributeEditModel" name="i" id="iterator.employee/EmployeeList#i"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel" size="95,108">
+      <children xsi:type="editmodel:MethodEditModel" name="EmployeeList" id="iterator.employee/EmployeeList#EmployeeList()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="append" id="iterator.employee/EmployeeList#append(Literator.employee.ListItem;)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="count" id="iterator.employee/EmployeeList#count()"/>
+      <children xsi:type="editmodel:MethodEditModel" name="createIterator" id="iterator.employee/EmployeeList#createIterator(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="get" id="iterator.employee/EmployeeList#get(I)"/>
+      <children xsi:type="editmodel:MethodEditModel" name="remove" id="iterator.employee/EmployeeList#remove()"/>
+    </children>
+    <children xsi:type="editmodel:CompartmentEditModel"/>
+    <sourceConnections xsi:type="editmodel:GeneralizationEditModel" autoLocated="true" id="iterator.employee/List&lt;-iterator.employee/EmployeeList" source="//@children.7" target="//@children.6" targetEnd="//@children.7/@sourceConnections.0/@children.1" sourceEnd="//@children.7/@sourceConnections.0/@children.0" connectionRouterKind="Manual">
+      <children xsi:type="editmodel:AssociationEndEditModel" location="63,0" attachSource="true"/>
+      <children xsi:type="editmodel:AssociationEndEditModel" location="59,139"/>
+    </sourceConnections>
+    <classifierPreferences xsi:type="editmodel:UMLClassDiagramClassifierPreference" showStereotype="true" attributeSorter="Natural" methodSorter="Natural" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showAttributeProperty="true"/>
+  </children>
+  <diagramOptions xsi:type="options:ClassDiagramOptions" properties="wireOptions=1" autoName="false"/>
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="10,10" gridOrigin="0,0" rulerUnit="pixel">
+    <leftRuler/>
+    <topRuler/>
+  </boardSetting>
+  <classDiagramPreferences xsi:type="editmodel:UMLClassDiagramPreference" attributeSorter="Natural" methodSorter="Natural" showClassStereotype="true" showPackageStereotype="true" innerClassSorter="Natural" showPublicAttributes="true" showPackageAttributes="true" showStaticAttributes="true" showPublicMethods="true" showPackageMethods="true" showStaticMethods="true" showPublicInnerClasses="true" showPackageInnerClasses="true" showStaticInnerClasses="true" showInterfaceStereotype="true" showAttributeProperty="true"/>
+</editmodel:ClassDiagramEditModel>
