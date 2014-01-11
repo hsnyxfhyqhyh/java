@@ -1,0 +1,7 @@
+######## Delete is turned on ###########
+######## rename file type is turned on ###########
+
+Enter Directory: C:\tmp\temp\filebatch
+
+Delete file: C:\tmp\temp\filebatch\a.class
+Rename file: C:\tmp\temp\filebatch\a.jad 		TO		 C:\tmp\temp\filebatch\a.java
