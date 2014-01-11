@@ -1,0 +1,618 @@
+<MathGenerator>
+	<!--format: 1 - straight forward calculation; 0 - fill the blank -->
+	<!-- This set of questions are for the numbers between 1-20 for addition and subtraction, 
+		straight question-->
+	<config set="1">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>+</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>20</max>
+				<min>10</min>
+			</firstNumber>
+			<secondNumber>
+				<max>10</max>
+				<min>0</min>
+			</secondNumber>
+			<sumMax>20</sumMax>
+		</numbers>
+	</config>
+	<config set="2">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>+</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>10</max>
+				<min>0</min>
+			</firstNumber>
+			<secondNumber>
+				<max>20</max>
+				<min>10</min>
+			</secondNumber>
+			<sumMax>20</sumMax>
+		</numbers>
+	</config>
+	
+	<config set="3">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>-</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>20</max>
+				<min>10</min>
+			</firstNumber>
+			<secondNumber>
+				<max>10</max>
+				<min>1</min>
+			</secondNumber>
+			<sumMax>20</sumMax>
+		</numbers>
+	</config>
+	<config set="4">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>-</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>20</max>
+				<min>10</min>
+			</firstNumber>
+			<secondNumber>
+				<max>20</max>
+				<min>10</min>
+			</secondNumber>
+			<sumMax>20</sumMax>
+		</numbers>
+	</config>
+	
+	
+	<config set="5">
+		<style>1</style>
+		<format>HTMLVertical3ColumnFormatter</format>
+		<operators>
+			<operator>+</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>30</max>
+				<min>15</min>
+			</firstNumber>
+			<secondNumber>
+				<max>15</max>
+				<min>0</min>
+			</secondNumber>
+			<sumMax>30</sumMax>
+		</numbers>
+	</config>
+	<config set="6">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>+</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>15</max>
+				<min>0</min>
+			</firstNumber>
+			<secondNumber>
+				<max>30</max>
+				<min>15</min>
+			</secondNumber>
+			<sumMax>30</sumMax>
+		</numbers>
+	</config>
+	
+	<config set="7">
+		<style>1</style>
+		<format>HTMLVertical3ColumnFormatter</format>
+		<operators>
+			<operator>-</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>30</max>
+				<min>15</min>
+			</firstNumber>
+			<secondNumber>
+				<max>15</max>
+				<min>1</min>
+			</secondNumber>
+			<sumMax>30</sumMax>
+		</numbers>
+	</config>
+	<config set="8">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>-</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>30</max>
+				<min>15</min>
+			</firstNumber>
+			<secondNumber>
+				<max>30</max>
+				<min>15</min>
+			</secondNumber>
+			<sumMax>30</sumMax>
+		</numbers>
+	</config>
+	
+	
+	
+	<config set="9">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>+</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>14</max>
+				<min>7</min>
+			</firstNumber>
+			<secondNumber>
+				<max>7</max>
+				<min>0</min>
+			</secondNumber>
+			<sumMax>14</sumMax>
+		</numbers>
+	</config>
+	<config set="10">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>+</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>7</max>
+				<min>0</min>
+			</firstNumber>
+			<secondNumber>
+				<max>14</max>
+				<min>7</min>
+			</secondNumber>
+			<sumMax>14</sumMax>
+		</numbers>
+	</config>
+	
+	<config set="11">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>-</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>14</max>
+				<min>7</min>
+			</firstNumber>
+			<secondNumber>
+				<max>7</max>
+				<min>0</min>
+			</secondNumber>
+			<sumMax>20</sumMax>
+		</numbers>
+	</config>
+	<config set="12">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>-</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>14</max>
+				<min>7</min>
+			</firstNumber>
+			<secondNumber>
+				<max>14</max>
+				<min>7</min>
+			</secondNumber>
+			<sumMax>20</sumMax>
+		</numbers>
+	</config>
+	
+	<config set="13">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>+</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>50</max>
+				<min>25</min>
+			</firstNumber>
+			<secondNumber>
+				<max>25</max>
+				<min>0</min>
+			</secondNumber>
+			<sumMax>50</sumMax>
+		</numbers>
+	</config>
+	<config set="14">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>+</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>25</max>
+				<min>5</min>
+			</firstNumber>
+			<secondNumber>
+				<max>50</max>
+				<min>25</min>
+			</secondNumber>
+			<sumMax>50</sumMax>
+		</numbers>
+	</config>
+	
+	<config set="15">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>-</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>50</max>
+				<min>25</min>
+			</firstNumber>
+			<secondNumber>
+				<max>25</max>
+				<min>3</min>
+			</secondNumber>
+			<sumMax>20</sumMax>
+		</numbers>
+	</config>
+	<config set="16">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>-</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>50</max>
+				<min>25</min>
+			</firstNumber>
+			<secondNumber>
+				<max>49</max>
+				<min>25</min>
+			</secondNumber>
+			<sumMax>20</sumMax>
+		</numbers>
+	</config>
+	
+	<config set="17">
+		<style>1</style>
+		<format>HTMLVertical3ColumnFormatter</format>
+		<operators>
+			<operator>+</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>100</max>
+				<min>50</min>
+			</firstNumber>
+			<secondNumber>
+				<max>50</max>
+				<min>0</min>
+			</secondNumber>
+			<sumMax>100</sumMax>
+		</numbers>
+	</config>
+	<config set="18">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>+</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>50</max>
+				<min>0</min>
+			</firstNumber>
+			<secondNumber>
+				<max>100</max>
+				<min>50</min>
+			</secondNumber>
+			<sumMax>100</sumMax>
+		</numbers>
+	</config>
+	
+	<config set="19">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>-</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>100</max>
+				<min>50</min>
+			</firstNumber>
+			<secondNumber>
+				<max>50</max>
+				<min>5</min>
+			</secondNumber>
+			<sumMax>20</sumMax>
+		</numbers>
+	</config>
+	<config set="20">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>-</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>100</max>
+				<min>50</min>
+			</firstNumber>
+			<secondNumber>
+				<max>90</max>
+				<min>40</min>
+			</secondNumber>
+			<sumMax>20</sumMax>
+		</numbers>
+	</config>
+	
+	<config set="21">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>+</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>10000</max>
+				<min>5000</min>
+			</firstNumber>
+			<secondNumber>
+				<max>5000</max>
+				<min>0</min>
+			</secondNumber>
+			<sumMax>10000</sumMax>
+		</numbers>
+	</config>
+	<config set="22">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>+</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>5000</max>
+				<min>0</min>
+			</firstNumber>
+			<secondNumber>
+				<max>10000</max>
+				<min>5000</min>
+			</secondNumber>
+			<sumMax>10000</sumMax>
+		</numbers>
+	</config>
+	
+	<config set="23">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>-</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>10000</max>
+				<min>5000</min>
+			</firstNumber>
+			<secondNumber>
+				<max>5000</max>
+				<min>500</min>
+			</secondNumber>
+			<sumMax>20</sumMax>
+		</numbers>
+	</config>
+	<config set="24">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>-</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>10000</max>
+				<min>5000</min>
+			</firstNumber>
+			<secondNumber>
+				<max>9000</max>
+				<min>4000</min>
+			</secondNumber>
+			<sumMax>20</sumMax>
+		</numbers>
+	</config>
+	
+	<!-- This set of questions are for the numbers between 10-99 for addition and subtraction, 
+		straight question -->
+	<config set="37">
+		<style>1</style>
+		<format>HTMLVertical3ColumnFormatter</format>
+		<operators>
+			<operator>×</operator>
+			<operator>÷</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>99</max>
+				<min>10</min>
+			</firstNumber>
+			<secondNumber>
+				<max>99</max>
+				<min>10</min>
+			</secondNumber>
+			<!-- summax not used in this set-->
+			<sumMax>200</sumMax>
+		</numbers>
+	</config>
+	
+	<!-- This set of questions are for the numbers between 10000-99999 for addition and subtraction, 
+		straight question, vertical style -->
+	<config set="38">
+		<style>1</style>
+		<format>HTMLVertical3ColumnFormatter</format>
+		<operators>
+			<operator>+</operator>
+			<operator>-</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>99999</max>
+				<min>10000</min>
+			</firstNumber>
+			<secondNumber>
+				<max>99999</max>
+				<min>10000</min>
+			</secondNumber>
+			<!-- summax not used in this set-->
+			<sumMax>999999</sumMax>
+		</numbers>
+	</config>
+	
+	<!-- This set of questions are for the numbers between 10000-99999 for addition and subtraction, 
+		straight question, vertical style -->
+	<config set="41">
+		<style>1</style>
+		<format>HTMLVertical3ColumnFormatter</format>
+		<operators>
+			<operator>÷</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>99</max>
+				<min>10</min>
+			</firstNumber>
+			<secondNumber>
+				<max>90</max>
+				<min>10</min>
+			</secondNumber>
+			<!-- summax not used in this set-->
+			<sumMax>999999</sumMax>
+		</numbers>
+	</config>
+	
+	<config set="42">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>×</operator>
+			<operator>÷</operator> 
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>125</max>
+				<min>125</min>
+			</firstNumber>
+			<secondNumber>
+				<max>8</max>
+				<min>1</min>
+			</secondNumber>
+			<sumMax>20</sumMax>
+			
+		</numbers>
+	</config>
+	<config set="43">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>×</operator>
+			<operator>÷</operator> 
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>25</max>
+				<min>25</min>
+			</firstNumber>
+			<secondNumber>
+				<max>10</max>
+				<min>1</min>
+			</secondNumber>
+			<sumMax>20</sumMax>
+			
+		</numbers>
+	</config>
+	<config set="44">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>×</operator>
+			<operator>÷</operator> 
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>18</max>
+				<min>1</min>
+			</firstNumber>
+			<secondNumber>
+				<max>11</max>
+				<min>11</min>
+			</secondNumber>
+			<sumMax>20</sumMax>
+		</numbers>
+	</config>
+	<config set="45">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>×</operator>
+			<operator>÷</operator> 
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>25</max>
+				<min>1</min>
+			</firstNumber>
+			<secondNumber>
+				<max>25</max>
+				<min>25</min>
+			</secondNumber>
+			<sumMax>20</sumMax>
+		</numbers>
+	</config>
+	
+	<config set="51">
+		<style>1</style>
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>÷</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>1</max>
+				<min>9</min>
+			</firstNumber>
+			<secondNumber>
+				<max>1</max>
+				<min>9</min>
+			</secondNumber>
+			<!-- summax not used in this set-->
+			<sumMax>999999</sumMax>
+		</numbers>
+	</config>
+</MathGenerator>

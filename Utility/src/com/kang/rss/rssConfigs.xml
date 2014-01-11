@@ -1,0 +1,131 @@
+<RssFeeder>
+	<Config active="false">
+		<Link>http://www.philly.com/philly_news.rss</Link>
+		<Version>2.0</Version>
+		<Description>Philly News</Description>
+		<FileName>Philly_news%s.html</FileName>
+		<Prefix>&lt;div id="body-content" class="body-content"&gt;</Prefix>
+		<Suffix>&lt;!--endclickprintinclude--&gt;</Suffix>
+		<language>iso-8859-1</language>
+	</Config>
+	<Config active="false">
+		<Link>http://rssfeeds.usatoday.com/UsatodaycomSports-TopStories</Link>
+		<Version>2.0</Version>
+		<Description>USA %ssports news</Description>
+		<FileName>USAToday_%ssports_stories.html</FileName>
+		<Prefix>&lt;more&gt;&lt;p class="inside-copy"&gt;</Prefix>
+		<Suffix>&lt;/more&gt;&lt;div class="clear"&gt;</Suffix>
+		<language>iso-8859-1</language>
+	</Config>
+	<Config active="true">
+		<Link>http://rssfeeds.usatoday.com/usatoday-NewsTopStories</Link>
+		<Version>2.0</Version>
+		<Description>USA today news</Description>
+		<FileName>USAToday_%stopstories.html</FileName>
+		<Prefix>&lt;more&gt;&lt;p class="inside-copy"&gt;</Prefix>
+		<Suffix>&lt;/more&gt;&lt;div class="clear"&gt;</Suffix>
+		<language>iso-8859-1</language>
+	</Config>
+	<Config active="false">
+		<Link>http://rssfeeds.usatoday.com/UsatodaycomNba-TopStories</Link>
+		<Version>2.0</Version>
+		<Description>USA today nba news</Description>
+		<FileName>USAToday_nba%s_topstories.html</FileName>
+		<Prefix>&lt;more&gt;&lt;p class="inside-copy"&gt;</Prefix>
+		<Suffix>&lt;/more&gt;&lt;div class="clear"&gt;</Suffix>
+		<language>iso-8859-1</language>
+	</Config>
+	<Config active="false">
+		<Link>http://rssfeeds.usatoday.com/usatoday-TechTopStories</Link>
+		<Version>2.0</Version>
+		<Description>USA today tech news</Description>
+		<FileName>USAToday_tech%s_topstories.html</FileName>
+		<Prefix>&lt;more&gt;&lt;p class="inside-copy"&gt;</Prefix>
+		<Suffix>&lt;/more&gt;&lt;div class="clear"&gt;</Suffix>
+		<language>iso-8859-1</language>
+	</Config>
+	<Config active="false">
+		<Link>http://rssfeeds.usatoday.com/UsatodaycomMoney-TopStories</Link>
+		<Version>2.0</Version>
+		<Description>USA today tech news</Description>
+		<FileName>USAToday_Money%s_topstories.html</FileName>
+		<Prefix>&lt;more&gt;&lt;p class="inside-copy"&gt;</Prefix>
+		<Suffix>&lt;/more&gt;&lt;div class="clear"&gt;</Suffix>
+		<language>iso-8859-1</language>
+	</Config>
+	<Config active="false">
+		<Link>http://www.courierpostonline.com/section/news01</Link>
+		<Version>2.0</Version>
+		<Description>South Jersey Local News</Description>
+		<FileName>SJ_Courer%s_local.html</FileName>
+		<Prefix>&lt;span class='pp'&gt;</Prefix>
+		<Suffix>&lt;span class='aa'&gt;</Suffix>
+		<language>iso-8859-1</language>
+	</Config>
+	<!-- 
+	
+	<Config active="false">
+		<Link></Link>
+		<Version>2.0</Version>
+		<Description></Description>
+		<FileName></FileName>
+		<Prefix></Prefix>
+		<Suffix></Suffix>
+		<language>zh-CN</language>
+	</Config>
+	<Config active="false">
+		<Link>http://news.yahoo.com/rss/business</Link>
+		<Version>2.0</Version>
+		<Description>Yahoo Business News</Description>
+		<FileName>Yahoo_business_news.html</FileName>
+		<Prefix>&lt;div class="yom-mod yom-art-content "&gt;&lt;div class="bd"&gt;&lt;p class="first"&gt;</Prefix>
+		<Suffix>&lt;div class="yom-mod yom-follow" id="mediasocialfollow"&gt;</Suffix>
+		<language>UTF-8</language>
+	</Config>
+	<Config active="false">
+		<Link>http://www.weiphone.com/rss.xml</Link>
+		<Version>2.0</Version>
+		<Description>威锋新闻</Description>
+		<FileName></FileName>
+		<Prefix></Prefix>
+		<Suffix></Suffix>
+		<language>utf-8</language>
+	</Config>
+	<Config active="false">
+		<Link>http://blog.163.com/yetanblog/rss</Link>
+		<Version>2.0</Version>
+		<Description>叶檀博客</Description>
+		<FileName></FileName>
+		<Prefix></Prefix>
+		<Suffix></Suffix>
+		<language>zh-CN</language>
+	</Config>
+	<Config active="false">
+		<Link>http://rss.cnn.com/rss/money_latest.rss</Link>
+		<Version>2.0</Version>
+		<Description>CNN Mony Latest News</Description>
+		<FileName></FileName>
+		<Prefix></Prefix>
+		<Suffix></Suffix>
+		<language>UTF-8</language>
+	</Config>
+	<Config active="false">
+		<Link>http://rss.cnn.com/rss/money_topstories.rss</Link>
+		<Version>2.0</Version>
+		<Description>CNN Money Top Stories</Description>
+		<FileName></FileName>
+		<Prefix></Prefix>
+		<Suffix></Suffix>
+		<language>UTF-8</language>
+	</Config>
+	<Config active="false">
+		<Link>http://rss.people.com/web/people/rss/topheadlines/index.xml</Link>
+		<Version>2.0</Version>
+		<Description>People.com latest News</Description>
+		<FileName></FileName>
+		<Prefix></Prefix>
+		<Suffix></Suffix>
+		<language>zh-CN</language>
+	</Config>
+	 -->
+</RssFeeder>

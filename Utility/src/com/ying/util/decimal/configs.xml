@@ -1,0 +1,20 @@
+<MathGenerator>
+	<!--format: 1 - straight forward calculation; 0 - fill the blank -->
+	<!-- This set of questions are for the numbers between 1-20 for addition and subtraction, 
+		straight question-->
+	<config set="1">
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>+</operator>
+			<operator>-</operator>
+			<operator>×</operator>
+			<operator>÷</operator>
+		</operators>
+		<numbers>
+			<min>1</min>
+			<max>1000</max>
+			<decimalDigitsMax>5</decimalDigitsMax>
+		</numbers>
+	</config>
+	
+</MathGenerator>
