@@ -1,0 +1,162 @@
+<BOOK NAME="Genesis" NUMBER="10" SHORTCUT="Gen"><CHAPTER>
+		<VERSE>#DESCTEXT#Author: Moses, the author of the five books of the Law (Deut. 31:9, 24; Luke 24:27, 44; John 1:45; 5:46; Acts 28:23; 2 Cor. 3:15).#DESCTEXT#Time of Writing: Probably about 1490 B.C., when Exodus was written (see introductory material in Exodus).#DESCTEXT#Place of Writing: In the wilderness east of Egypt.#DESCTEXT#Time Period Covered: From the beginning of creation (1:1) until approximately 1635 B.C., the death of Joseph (50:26).#DESCTEXT#Subject: God Created, Satan Corrupted, Man Fell, and Jehovah Promised to Save#DESCTEXT#I. God's Creation#DESCTEXT#A. God's Desire and Purpose#DESCTEXT#1. God's Original Creation#VERSTEXT#{gnaAaA}In the {gnaAb}beginning {gnaAc}God {gnaAdB}created the {gnaAe}heavens and the earth.</VERSE>
+		<VERSE>#DESCTEXT#2. Judgment and Corruption#VERSTEXT#{gnaBa}But the earth became {gnaBbA}waste and emptiness, and {gnaBb}darkness was on the surface of the {gnaBc}deep,#DESCTEXT#3. God's Restoration and Further Creation#DESCTEXT#a. The Spirit, the Word, and the Light Coming, the First Day#VERSTEXT#{gnaBd}and the {gnaBeB}Spirit of God was brooding upon the surface of the waters.</VERSE>
+		<VERSE>And God {gnaCaA}said, Let there be {gnaC-B}light; and there was light.</VERSE>
+		<VERSE>And God saw that the light was {gnaD-A}good, and God {gnaDaB}separated the light from the darkness.</VERSE>
+		<VERSE>And God called the light {gnaE-A}Day, and the darkness He called Night. And {gnaE-B}there was evening and there was morning, one day.</VERSE>
+		<VERSE>#DESCTEXT#b. The Waters under the Expanse Separated from the Waters above the Expanse, the Second Day#VERSTEXT#And God {gnaF-A}said, Let there be an {gnaFa}expanse in the midst of the waters, and let it {gnaFbB}separate the waters from the waters.</VERSE>
+		<VERSE>And God made the expanse and separated the waters which were under the expanse from the {gnaG-A}waters which were above the expanse, and it was so.</VERSE>
+		<VERSE>And God called the expanse Heaven. And {gnaH-A}there was evening and there was morning, a second {gnaHa}day.</VERSE>
+		<VERSE>#DESCTEXT#c. The Earth Separated from the Seas and the Plant Life Generated, the Third Day#VERSTEXT#And God {gnaI-A}said, Let the waters under the heavens be {gnaI-B}gathered together into one place, and let the {gnaIaC}dry land appear; and it was so.</VERSE>
+		<VERSE>And God called the dry land {gnaJa}Earth, and the gathering together of the waters He called {gnaJa}Seas; and God saw that it was {gnaJ-A}good.</VERSE>
+		<VERSE>And God {gnaK-A}said, Let the earth {gnaK-B}sprout {gnaKa}grass, herbs yielding seed, and fruit trees bearing fruit {gnaK-C}according to their kind with their seed in them upon the earth; and it was so.</VERSE>
+		<VERSE>And the earth brought forth grass, herbs yielding seed {gnaL-A}according to their kind, and trees bearing fruit with their seed in them aaccording to their kind; and God saw that it was {gnaL-B}good.</VERSE>
+		<VERSE>And {gnaM-A}there was evening and there was morning, a third day.</VERSE>
+		<VERSE>#DESCTEXT#d. The Light-bearers Appearing, the Fourth Day#VERSTEXT#And God {gnaN-A}said, Let there be {gnaNaB}light-bearers in the expanse of heaven to separate the day from the night, and let them be for {gnaNbC}signs and for seasons and for days and years;</VERSE>
+		<VERSE>And let them be light-bearers in the expanse of heaven to give light on the earth; and it was so.</VERSE>
+		<VERSE>And God {gnaPaA}made the two great light-bearers, the {gnaPb}greater light-bearer to rule the day and the {gnaPc}lesser light-bearer to rule the night, and the {gnaPdB}stars.</VERSE>
+		<VERSE>And God {gnaQ-A}set them in the expanse of heaven to give light on the earth</VERSE>
+		<VERSE>And to {gnaRa}rule over the day and over the night and to {gnaRa}separate the light from the darkness, and God saw that it was {gnaR-A}good.</VERSE>
+		<VERSE>And {gnaS-A}there was evening and there was morning, a fourth day.</VERSE>
+		<VERSE>#DESCTEXT#e. The Living Creatures in the Water and in the Air Generated, the Fifth Day#VERSTEXT#And God {gnaT-A}said, Let the waters swarm with swarms of {gnaTaB}living animals, and let {gnaTb}birds fly above the earth in the open expanse of heaven.</VERSE>
+		<VERSE>And God created the {gnaU-A}great sea creatures and every living animal that moves, with which the waters swarmed, according to their kind, and every winged bird {gnaU-B}according to its kind; and God saw that it was {gnaU-C}good.</VERSE>
+		<VERSE>And God {gnaV-A}blessed them, saying, Be {gnaV-B}fruitful and multiply, and fill the waters in the seas, and let the birds multiply on the earth.</VERSE>
+		<VERSE>And there was evening and there was morning, a fifth day.</VERSE>
+		<VERSE>#DESCTEXT#f. The Living Creatures on the Earth Generated, the Sixth Day#DESCTEXT#(1) The Animals of the Earth#VERSTEXT#And God said, Let the earth bring forth {gnaX-A}living animals {gnaX-B}according to their kind, {gnaXa}cattle and {gnaXb}creeping things and {gnaXa}animals of the earth baccording to their kind; and it was so.</VERSE>
+		<VERSE>And God made the animals of the earth {gnaY-A}according to their kind and the cattle according to their kind and everything that creeps on the ground aaccording to its kind, and God saw that it was {gnaY-B}good.</VERSE>
+		<VERSE>#DESCTEXT#(2) Man#DESCTEXT#(a) The Conference of the Godhead#VERSTEXT#And God said, {gnaZa}Let {gnaZ-A}Us make {gnaZbB}man {gnaZ-C}in Our {gnaZcD}image, according to Our {gnaZc}{gnaZ-E}likeness; and let {gnaZd}them have {gnaZeF}dominion over the fish of the sea and over the birds of heaven and over the cattle and over all the earth and over every {gnaZf}creeping thing that creeps upon the earth.</VERSE>
+		<VERSE>#DESCTEXT#(b) Created by God Male and Female#VERSTEXT#And God created man {gnaBA-A}in His own image; in the image of God He created him; {gnaBA-B}male and female He {gnaBA-C}created them.</VERSE>
+		<VERSE>#DESCTEXT#(c) Blessed by God to Be Fruitful#VERSTEXT#And God {gnaBB-A}blessed them; and God said to them, Be {gnaBB-B}fruitful and multiply, and fill the earth and {gnaBBa}subdue it, and have dominion over the fish of the sea and over the birds of heaven and over every living thing that moves upon the earth.</VERSE>
+		<VERSE>#DESCTEXT#(3) Man and All Other Living Creatures Satisfied by God's Provision#VERSTEXT#And God said, Behold, I have given you every herb that produces seed that is on the surface of all the earth and every tree {gnaBCa}which has fruit that produces seed; they shall be for you as {gnaBCbA}food.</VERSE>
+		<VERSE>And to every animal of the earth and to every bird of heaven and to everything that creeps upon the earth, in which is a living soul, I have given every green herb for food; and it was so.</VERSE>
+		<VERSE>#DESCTEXT#(4) Everything Being Very Good to God#VERSTEXT#And God saw everything that He had made, and indeed, it was {gnaBEa}very {gnaBE-A}good. And there was evening and there was morning, the sixth day.</VERSE></CHAPTER>
+	<CHAPTER>
+		<VERSE>#CHAPTEXT#GENESIS 2#DESCTEXT#g. God Resting in Satisfaction, the Seventh Day#VERSTEXT#Thus the heavens and the earth and all their host were finished.</VERSE>
+		<VERSE>And on the {gnbB-A}seventh day God finished His work which He had done, and He {gnbBaB}rested on the seventh day from all His work which He had done.</VERSE>
+		<VERSE>And God blessed the seventh day and sanctified it because in it He rested from all His work which God had {gnbCa}created and made.</VERSE>
+		<VERSE>#DESCTEXT#B. God's Procedures to Fulfill His Purpose#DESCTEXT#1. The Background - No Rain from Heaven, No Man on the Ground, No Life in the Field,#DESCTEXT#Only a Mist from the Earth#VERSTEXT#{gnbDa}These are the generations of the heavens and of the earth when they were {gnbDb}created. {gnbDc}When {gnbDd}Jehovah God {gnbDb}made earth and heaven,</VERSE>
+		<VERSE>And no {gnbE-A}plant of the field was yet in the earth, and no herb of the field had yet sprung up - for Jehovah God had not caused it to rain upon the earth, and there was no man to {gnbEaB}work the ground,</VERSE>
+		<VERSE>But a mist went up from the earth and watered the whole surface of the ground -</VERSE>
+		<VERSE>#DESCTEXT#2. The First Step - Creating Man as a Vessel to Contain God as Life#VERSTEXT#Jehovah God {gnbGa}formed {gnbGb}man from the {gnbGcA}dust of the {gnbGd}ground and breathed into his nostrils the {gnbGeB}breath of life, and man became a living {gnbGfC}soul.</VERSE>
+		<VERSE>#DESCTEXT#3. The Second Step - Having Man Receive God as Life#DESCTEXT#a. Placing Man in Front of the Tree of Life#VERSTEXT#And Jehovah God planted a {gnbH-A}garden in {gnbHa}Eden, in the east; and there He put the man whom He had formed.</VERSE>
+		<VERSE>And out of the ground Jehovah God caused to grow every tree that is {gnbIa}pleasant to the sight and good for food, as well as the {gnbIbA}tree of life in the middle of the garden and the {gnbIcB}tree of the knowledge of good and evil.</VERSE>
+		<VERSE>#DESCTEXT#b. Putting Man in the Garden with Its River#VERSTEXT#And a {gnbJaA}river went {gnbJb}forth from Eden to water the garden, and from there it divided and became {gnbJc}four {gnbJd}branches.</VERSE>
+		<VERSE>The name of the first is Pishon; it is the one that goes around the whole land of {gnbK-A}Havilah, where there is gold.</VERSE>
+		<VERSE>And the {gnbLa}gold of that land is good; {gnbLa}{gnbL-A}bdellium and {gnbLa}{gnbL-B}onyx stone are there.</VERSE>
+		<VERSE>And the name of the second river is Gihon; it is the one that goes around the whole land of Cush.</VERSE>
+		<VERSE>And the name of the third river is {gnbN-A}Hiddekel; it is the one that goes east of Asshur. And the fourth river is the Euphrates.</VERSE>
+		<VERSE>And Jehovah God took the man and {gnbOa}put him in the garden of Eden to {gnbOb}work it and to {gnbOc}keep it.</VERSE>
+		<VERSE>#DESCTEXT#c. Allowing Man to Have Free Choice#VERSTEXT#And Jehovah God commanded the man, saying, {gnbP-A}Of every tree of the garden you may eat freely,</VERSE>
+		<VERSE>But of the tree of the knowledge of good and evil, of it you shall {gnbQaA}not eat; for in the day that you eat of it you shall surely {gnbQbB}die.</VERSE>
+		<VERSE>#DESCTEXT#4. The Third Step - Working God into Man as Life to Be His Complement#DESCTEXT#a. Man, Typifying God, Needing to Have a Complement#VERSTEXT#And Jehovah God said, It is not {gnbR-A}good for the {gnbRa}man to be alone; I will make him a {gnbR-B}helper as his {gnbRb}counterpart.</VERSE>
+		<VERSE>Now Jehovah God had formed {gnbS-A}from the ground every animal of the field and every bird of heaven. And He brought them to the man to see what he would call them; and whatever the man called any living animal, that was its name.</VERSE>
+		<VERSE>And the man gave names to all cattle and to the birds of heaven and to every animal of the field, but for Adam there was {gnbTa}not found a helper as his counterpart.</VERSE>
+		<VERSE>#DESCTEXT#b. Man Gaining a Complement in and by Life#VERSTEXT#And Jehovah God caused a {gnbUaA}deep sleep to fall upon the man, and he slept; and He took one of his {gnbUb}ribs and closed up the flesh in its place.</VERSE>
+		<VERSE>And Jehovah God {gnbVaA}built the rib, which He had taken from the man, into a {gnbVb}woman and {gnbVc}brought her to the man.</VERSE>
+		<VERSE>And the man said, This time this is {gnbW-A}bone of my bones / And flesh of my flesh; / This one shall be called {gnbWa}Woman / Because {gnbW-B}out of {gnbWb}Man this one was taken.</VERSE>
+		<VERSE>Therefore a {gnbX-A}man shall leave his father and his mother and shall cleave to his wife, and {gnbX-B}they shall become one {gnbXa}flesh.</VERSE>
+		<VERSE>{gnbYa}And both the man and his wife were {gnbY-A}naked and were not ashamed before each other.</VERSE></CHAPTER></BOOK>
+	<BOOK NAME="Exodus" NUMBER="20" SHORTCUT="Exo"><CHAPTER>
+		<VERSE>#DESCTEXT#Author: Moses (Mark 12:26 and Luke 20:37, quoting Exo. 3:6; Mark 7:10, quoting Exo. 20:12), the author of the five books of the Law (Deut. 31:9, 24; Luke 24:27, 44; John 1:45; 5:46; Acts 28:23; 2 Cor. 3:15).#DESCTEXT#Time of Writing: Approximately 1490 B.C. (cf. 1 Kings 6:1) in the second year after the exodus, after the tabernacle was erected (40:17).#DESCTEXT#Place of Writing: In the wilderness and at Mount Sinai (19:1-2; 34:27-29).#DESCTEXT#Time Period Covered: From approximately 1706 B.C., when Jacob came to Egypt (1:1), until one year after the exodus from Egypt (40:17) in 1490 B.C. Most of the book covers a period of about one year (12:2; 19:1; 40:17).#DESCTEXT#Subject:#DESCTEXT#Christ Is the Redemption, Salvation, and Supply of God's People and the Means for Them to Worship and Serve God So That in Him They May Be Built Up with God Together for Them and God to Meet, Communicate, and Dwell Mutually#DESCTEXT#I. Enslaved#VERSTEXT#{exaAa}Now these are the {exaA-A}names of the sons of Israel who came to {exaAb}Egypt with Jacob; each man came with his household:</VERSE>
+		<VERSE>Reuben, Simeon, Levi, and Judah,</VERSE>
+		<VERSE>Issachar, Zebulun, and Benjamin,</VERSE>
+		<VERSE>Dan and Naphtali, Gad and Asher.</VERSE>
+		<VERSE>And all the {exaEa}persons who came forth from the loins of Jacob were {exaE-A}seventy {exaEa}persons, but Joseph was already in Egypt.</VERSE>
+		<VERSE>And Joseph {exaFaA}died, and all his brothers, and all that generation.</VERSE>
+		<VERSE>But the children of Israel were {exaG-A}fruitful and increased abundantly and multiplied and grew exceedingly strong, and the land was filled with them.</VERSE>
+		<VERSE>And a {exaH-A}new king rose up over Egypt, who did not know of Joseph.</VERSE>
+		<VERSE>And he said to his people, The people of the children of Israel are now more numerous and {exaI-A}stronger than we.</VERSE>
+		<VERSE>Come, let us deal {exaJ-A}wisely with them, lest they multiply and, when some war occurs, they also join themselves to those who hate us and fight against us and go up from the land.</VERSE>
+		<VERSE>So they set taskmasters over them to {exaK-A}afflict them with their {exaK-B}burdens. And they built storage cities for Pharaoh, {exaKa}Pithom and {exaKa}{exaK-C}Raamses.</VERSE>
+		<VERSE>But the more they afflicted them, the more they {exaL-A}multiplied and the more they spread out so that they came to dread the children of Israel.</VERSE>
+		<VERSE>And the Egyptians made the children of Israel serve with harshness,</VERSE>
+		<VERSE>And they made their lives bitter with {exaN-A}hard labor in {exaNa}mortar and in {exaNa}brick and in all kinds of labor in the field; all their labor with which they made them serve was with harshness.</VERSE>
+		<VERSE>And the king of Egypt spoke to the Hebrew midwives, one whose name was Shiphrah and the other whose name was Puah;</VERSE>
+		<VERSE>And he said, {exaP-A}When you act as midwives for the Hebrew women and see them on the {exaPa}birthstool, if it is a {exaPb}son, then you shall put him to death; but if it is a {exaPb}daughter, then she shall live.</VERSE>
+		<VERSE>But the midwives {exaQa}feared God and {exaQ-A}did not do as the king of Egypt had commanded them but let the male children live.</VERSE>
+		<VERSE>So the king of Egypt called for the midwives and said to them, Why have you done this thing and let the male children live?</VERSE>
+		<VERSE>And the midwives said to Pharaoh, Because the Hebrew women are not like the Egyptian women; for they are vigorous: before the midwife comes to them, they give birth.</VERSE>
+		<VERSE>And God dealt well with the midwives, and the people multiplied and grew very strong.</VERSE>
+		<VERSE>And because the midwives feared God, He established households for them.</VERSE>
+		<VERSE>And Pharaoh commanded all his people, saying, Every {exaV-A}son who is {exaVa}born you shall cast into the {exaVb}River, but every daughter you shall let live.</VERSE></CHAPTER>
+	<CHAPTER>
+		<VERSE>#CHAPTEXT#EXODUS 2#DESCTEXT#II. Redeemed and Saved#DESCTEXT#A. Preparation of the Savior#VERSTEXT#And a man of the house of Levi went and took a daughter of Levi as {exbA-A}wife.</VERSE>
+		<VERSE>And the woman conceived and bore a son; and when she saw that he was a fine child, she {exbBa}hid him {exbB-A}three months.</VERSE>
+		<VERSE>And when she could no longer hide him, she took for him a papyrus basket and plastered it with tar and pitch; and she put the child in it and placed it among the reeds on the bank of the River.</VERSE>
+		<VERSE>And his {exbD-A}sister stood at a distance to find out what would happen to him.</VERSE>
+		<VERSE>And the daughter of Pharaoh came down to bathe at the River while her maidens walked alongside the River. And she saw the basket in the midst of the reeds and sent her female servant, and she brought it to her.</VERSE>
+		<VERSE>And she opened it and saw the child, and there was the boy, crying. And she had compassion on him and said, This is one of the Hebrews' children.</VERSE>
+		<VERSE>Then his sister said to Pharaoh's daughter, Shall I go and call a nurse from the Hebrew women for you that she may nurse the child for you?</VERSE>
+		<VERSE>And Pharaoh's daughter said to her, Go. And the girl went and called the child's mother.</VERSE>
+		<VERSE>And Pharaoh's daughter said to her, Take this child away and nurse him for me, and I will give you your wages. So the woman took the child and {exbI-A}nursed him.</VERSE>
+		<VERSE>And the child grew, and she brought him to Pharaoh's daughter, and he became her {exbJ-A}son. And she called his name {exbJa}Moses and said, Because I drew him out of the water.</VERSE>
+		<VERSE>{exbK-A}And in those days, when Moses had grown up, he went out to his brothers and looked on their {exbK-B}burdens; and he saw an Egyptian beating a Hebrew, one of his brothers.</VERSE>
+		<VERSE>And he looked this way and that, and when he saw that there was no one there, he struck the Egyptian down and hid him in the sand.</VERSE>
+		<VERSE>And he went out the next day, and there were two Hebrew men struggling together; and he said to the one who was in the wrong, Why are you beating your companion?</VERSE>
+		<VERSE>And he said, Who appointed you a ruler and a judge over us? Are you thinking to kill me as you killed the Egyptian? And Moses became {exbNa}frightened and said, Surely the matter is known.</VERSE>
+		<VERSE>Now when Pharaoh heard of this matter, he sought to kill Moses. But Moses {exbO-A}fled from Pharaoh to dwell in the land of Midian, and he sat down by a well.</VERSE>
+		<VERSE>Now the priest of Midian had seven daughters, and they came and drew water and filled the troughs to water their father's flock.</VERSE>
+		<VERSE>And the shepherds came and drove them away, but Moses rose up and helped them and watered their flock.</VERSE>
+		<VERSE>And when they came to Reuel their father, he said, Why have you come back so quickly today?</VERSE>
+		<VERSE>And they said, An Egyptian delivered us out of the hand of the shepherds, and he even drew water for us as well and watered the flock.</VERSE>
+		<VERSE>And he said to his daughters, And where is he? Why did you leave the man? Invite him to eat a meal.</VERSE>
+		<VERSE>And Moses agreed to {exbUa}stay with the man, and he gave Moses {exbU-A}Zipporah his daughter.</VERSE>
+		<VERSE>And she bore a son, and he called his name {exbVaA}Gershom, for he said, I have been a {exbV-B}sojourner in a foreign land.</VERSE>
+		<VERSE>And in the course of those many days the king of Egypt died, and the children of Israel groaned because of the {exbW-A}bondage. And they cried out, and their {exbW-B}cry went up to God because of their bondage.</VERSE>
+		<VERSE>And God {exbX-A}heard their groaning, and God {exbX-B}remembered His {exbX-C}covenant with Abraham, with Isaac, and with Jacob.</VERSE>
+		<VERSE>And God {exbY-A}looked upon the children of Israel, and God took notice of them.</VERSE></CHAPTER>
+	<CHAPTER>
+		<VERSE>#CHAPTEXT#EXODUS 3#DESCTEXT#B. God's Calling of the Prepared One#VERSTEXT#Now {excAa}Moses was shepherding the flock of Jethro his father-in-law, the priest of Midian; and he led the flock to the back of the wilderness and came to the {excA-A}mountain of God, to Horeb.</VERSE>
+		<VERSE>{excB-A}And the {excBaB}Angel of Jehovah appeared to him in a {excBb}flame of fire out of the midst of a {excBb}{excB-C}thornbush. And when he looked, there was the thornbush, burning with fire; but the thornbush was not consumed.</VERSE>
+		<VERSE>And Moses said, I must turn aside now and see this great sight, why the thornbush does not burn up.</VERSE>
+		<VERSE>And when Jehovah saw that he had turned aside to look, God {excD-A}called to him out of the midst of the {excD-B}thornbush and said, Moses, Moses. And he said, Here I am.</VERSE>
+		<VERSE>And He said, Do not come near here. Remove your {excE-A}sandals from your feet, for the place on which you are standing is {excE-B}holy ground.</VERSE>
+		<VERSE>And He said, I am the God of your father, the {excFaA}God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face, for he was afraid to look at God.</VERSE>
+		<VERSE>And Jehovah said, I have surely seen the {excG-A}affliction of My people who are in Egypt and have heard their cry because of their {excG-B}taskmasters, for I know their sorrows.</VERSE>
+		<VERSE>And I have {excH-A}come down to {excHaB}deliver them out of the hand of the Egyptians and to {excHa}{excH-C}bring them up out of that land to a {excH-D}good and spacious land, to a land flowing with {excHbE}milk and honey, to the place of the {excH-F}Canaanites and the Hittites and the Amorites and the Perizzites and the Hivites and the Jebusites.</VERSE>
+		<VERSE>And now the {excI-A}cry of the children of Israel has come to Me, and I have also seen the {excI-B}oppression with which the Egyptians oppress them.</VERSE>
+		<VERSE>So come now, and I will {excJ-A}send you to Pharaoh, that you may bring My people, the children of Israel, out of Egypt.</VERSE>
+		<VERSE>But Moses said to God, {excKaA}Who am I that I should go to Pharaoh and that I should bring the children of Israel out of Egypt?</VERSE>
+		<VERSE>And He said, Surely I will be {excL-A}with you, and this shall be the sign for you that I have sent you: When you have brought the people out of Egypt, you will serve God upon this {excLa}mountain.</VERSE>
+		<VERSE>Then Moses said to God, If I come to the children of Israel and say to them, The God of your fathers has sent me to you, and they say to me, What is His name? what shall I say to them?</VERSE>
+		<VERSE>And God said to Moses, {excNaA}I AM WHO I AM. And He said, Thus you shall say to the children of Israel, {excN-B}I AM has sent me to you.</VERSE>
+		<VERSE>And God also said to Moses, Thus you shall say to the children of Israel, {excOa}Jehovah, the God of your fathers, the God of {excO-A}Abraham, the God of Isaac, and the God of Jacob, has sent me to you. This is My {excO-B}name forever, and this is My {excO-C}memorial from generation to generation.</VERSE>
+		<VERSE>Go, and gather the {excP-A}elders of Israel together, and say to them, Jehovah, the God of your fathers, the {excP-B}God of Abraham, of Isaac, and of Jacob, has appeared to me, saying, I have surely {excP-C}visited you and seen what is being done to you in Egypt.</VERSE>
+		<VERSE>And I say, I will bring you up out of the affliction of Egypt to the land of the {excQ-A}Canaanites and the Hittites and the Amorites and the Perizzites and the Hivites and the Jebusites, to a land flowing with {excQ-B}milk and honey.</VERSE>
+		<VERSE>And they will listen to your voice. And you shall come, you and the elders of Israel, to the king of Egypt, and you shall say to him, {excR-A}Jehovah, the God of the {excRa}Hebrews, has met with us; and now let us go a {excRb}three days' journey into the wilderness that we may {excR-B}sacrifice to Jehovah our God.</VERSE>
+		<VERSE>But I know that the king of Egypt will {excS-A}not let you go unless compelled by a {excS-B}mighty hand.</VERSE>
+		<VERSE>So I will stretch out My hand and strike Egypt with all My {excT-A}wonders which I will perform in the midst of it, and after that he will {excT-B}let you go.</VERSE>
+		<VERSE>And I will give this people {excU-A}favor in the sight of the Egyptians, so that when you go, you will not go empty-handed.</VERSE>
+		<VERSE>But every woman will ask of her neighbor and of any woman living in her house for articles of silver and {excV-A}articles of gold and clothing, and you will put them on your sons and on your daughters, and thus {excVaB}plunder the Egyptians.</VERSE></CHAPTER>
+	<CHAPTER>
+		<VERSE>#CHAPTEXT#EXODUS 4#DESCTEXT#C. Three Subjective Signs of Being Called and Sent by God#VERSTEXT#Then Moses answered and said, What if they do not believe me or listen to my voice, but say, Jehovah has not appeared to you?</VERSE>
+		<VERSE>And Jehovah said to him, What is this in your hand? And he said, A {exdB-A}staff.</VERSE>
+		<VERSE>And He said, Throw it on the ground. And he threw it on the ground, and it became a {exdCa}serpent; and Moses recoiled from it.</VERSE>
+		<VERSE>And Jehovah said to Moses, Stretch out your hand, and take it by its tail - so he stretched out his hand and seized it, and it became a staff in his hand -</VERSE>
+		<VERSE>That they may {exdE-A}believe that Jehovah, the God of their fathers, the {exdE-B}God of Abraham, the God of Isaac, and the God of Jacob, has {exdE-C}appeared to you.</VERSE>
+		<VERSE>And Jehovah further said to him, Now put your hand into your bosom. And he put his hand into his bosom, and when he took it out, there his hand was, {exdF-A}leprous, as white as snow.</VERSE>
+		<VERSE>And He said, Put your hand into your bosom again - so he put his hand into his bosom again, and when he took it out of his bosom, there it was, restored like the rest of his {exdG-A}flesh -</VERSE>
+		<VERSE>And if they do not believe you or {exdHa}heed the first sign, then they may {exdHb}believe the next sign.</VERSE>
+		<VERSE>And if they will not believe even these two signs or listen to your voice, then you shall take some of the water of the River and pour it on the dry ground, and the water that you take out of the River will become {exdI-A}blood upon the dry ground.</VERSE>
+		<VERSE>#DESCTEXT#D. The Male Help and the Female Help to the Called One#VERSTEXT#And Moses said to Jehovah, Please, Lord, I am not a man of words, neither in the past, nor since You have spoken to Your servant, for I am {exdJaA}slow of speech and slow of tongue.</VERSE>
+		<VERSE>And Jehovah said to him, Who gave man a {exdK-A}mouth? Or who makes him adumb or deaf or seeing or blind? Is it not I, Jehovah?</VERSE>
+		<VERSE>Now go therefore, and I will be with your {exdL-A}mouth and will {exdL-B}teach you what you shall speak.</VERSE>
+		<VERSE>And he said, Please, Lord, send word by sending someone else.</VERSE>
+		<VERSE>And the anger of Jehovah was kindled against Moses, and He said, Is there not {exdNa}Aaron your brother the Levite? I know that he can certainly speak. And even now he is coming out to {exdN-A}meet you; and when he sees you, he will be glad in his heart.</VERSE>
+		<VERSE>And you shall {exdO-A}speak to him and {exdO-B}put the words in his mouth, and I will be with your mouth and with his mouth, and will teach you what you shall do.</VERSE>
+		<VERSE>And he shall speak for you to the people, and he shall be as a mouth for you, and you shall be as {exdP-A}God to him.</VERSE>
+		<VERSE>And you shall take in your hand this {exdQ-A}staff, with which you shall perform the signs.</VERSE>
+		<VERSE>And Moses went back to Jethro his father-in-law. And he said to him, Please let me go and return to my brothers who are in Egypt and see whether they are still alive. And Jethro said to Moses, Go in peace.</VERSE>
+		<VERSE>And Jehovah said to Moses in Midian, Go, return to Egypt; for all the men who were {exdS-A}seeking your life have died.</VERSE>
+		<VERSE>So Moses took his wife and his {exdT-A}sons, and mounted them upon a donkey, and returned to the land of Egypt. And Moses took the {exdT-B}staff of God in his hand.</VERSE>
+		<VERSE>And Jehovah said to Moses, When you go to return to Egypt, see that you perform before Pharaoh all the {exdU-A}wonders which I have put in your power; but I will {exdU-B}harden his heart, and he will {exdU-C}not let the people go.</VERSE>
+		<VERSE>Then you shall say to Pharaoh, Thus says Jehovah, Israel is My {exdV-A}son, My {exdVaB}firstborn.</VERSE>
+		<VERSE>And I said to you, Let My son go that he may {exdW-A}serve Me; but you have refused to let him go. I will now {exdW-B}slay your son, your {exdW-C}firstborn.</VERSE>
+		<VERSE>And at the lodging place on the way, Jehovah came upon him and sought to put him to death.</VERSE>
+		<VERSE>Then {exdY-A}Zipporah took a flint and {exdYa}cut off her son's foreskin and cast it at Moses' feet, and she said, You are indeed a {exdYb}bridegroom of blood to me!</VERSE>
+		<VERSE>So He let him alone. It was then that she said, A bridegroom of blood, because of the circumcision.</VERSE>
+		<VERSE>And Jehovah said to Aaron, Go into the wilderness to {exdBA-A}meet Moses. And he went and came upon him at the {exdBA-B}mountain of God, and he kissed him.</VERSE>
+		<VERSE>And Moses told Aaron all the {exdBB-A}words of Jehovah with which He had sent him and all the signs with which He had charged him.</VERSE>
+		<VERSE>And Moses and Aaron went and gathered together all the {exdBC-A}elders of the children of Israel.</VERSE>
+		<VERSE>And Aaron spoke all the words which Jehovah had spoken to Moses, and he performed the signs in the sight of the people.</VERSE>
+		<VERSE>And the people {exdBE-A}believed; and when they heard that Jehovah had {exdBE-B}visited the children of Israel and that He had seen their affliction, they {exdBE-C}bowed and worshipped.</VERSE></CHAPTER></BOOK>
