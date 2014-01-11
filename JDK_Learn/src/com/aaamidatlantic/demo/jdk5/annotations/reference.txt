@@ -1,0 +1,4 @@
+Please read the tutorial at:
+
+http://java.sun.com/docs/books/tutorial/java/javaOO/annotations.html
+
