@@ -12,7 +12,7 @@ public class BibleParser {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		FileUtil.getContents(new File("nivCn.txt"));
+		FileUtil.getContents(new File("nivCn_old2.txt"));
 		
 //		// Get a set of the entries 
 //		Set set = hm.entrySet(); 
