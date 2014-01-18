@@ -41,7 +41,7 @@ public class HhbBibleBook {
 	public static void main(String[] args) {
 		StringBuffer finalResult = new StringBuffer();
 		finalResult.append("<html> <meta http-equiv=\"Content-Type\" content=\"text/html; charset=gb2312\" /><body>");
-		for (int j=40 ; j<=66 ; j++) {
+		for (int j=1 ; j<=39 ; j++) {
 			HhbBibleBook ebook = new HhbBibleBook(j);
 			finalResult.append(ebook.bookDetail);
 		}
@@ -58,11 +58,27 @@ public class HhbBibleBook {
 		int chapterCount = bdo.getChapterCount();
 		String bookName = bdo.getBookName();
 		
+//		System.out.println(bookName  + " : " + bookIndex +  " :  "  + chapterCount);
+//		
+//		if (true) return;
+		
+		
+//		String bookName = bdo.getBookName();
+		
 		links = new String[chapterCount];
 		for (int i=0; i<chapterCount; i++) {
-			links[i] = String.format(linkTemplate, bookIndex, chapterNumberWithPrefix(i+1));
+			if (bookIndex<10) {
+				String sbookIndex = "0" + bookIndex;
+				links[i] = String.format(linkTemplate, sbookIndex, chapterNumberWithPrefix(i+1));
+			} else {
+				links[i] = String.format(linkTemplate, bookIndex, chapterNumberWithPrefix(i+1));	
+			}
+			
 			System.out.println(links[i]);
 		}
+		
+		
+		
 		
 		StringBuffer bookResult = new StringBuffer();
 		

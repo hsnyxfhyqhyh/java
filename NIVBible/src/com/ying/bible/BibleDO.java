@@ -32,6 +32,167 @@ public class BibleDO {
 		}
 		
 		switch (index){
+		case 1: 
+			bookName = "Genesis";
+			chapterCount = 50;
+			break;
+		case 2: 
+			bookName = "Exodus";
+			chapterCount = 40;
+			break;
+		case 3: 
+			bookName = "Leviticus";
+			chapterCount = 27;
+			break;
+		case 4: 
+			bookName = "Numbers";
+			chapterCount = 36;
+			break;
+		case 5: 
+			bookName = "Deuteronomy";
+			chapterCount = 34;
+			break;
+		case 6: 
+			bookName = "Joshua";
+			chapterCount = 24;
+			break;
+		case 7: 
+			bookName = "Judges";
+			chapterCount = 21;
+			break;
+		case 8: 
+			bookName = "Ruth";
+			chapterCount = 4;
+			break;
+		case 9: 
+			bookName = "Samuel1";
+			chapterCount = 31;
+			break;
+		case 10: 
+			bookName = "Samuel2";
+			chapterCount = 24;
+			break;
+			
+			
+		case 11: 
+			bookName = "Kings1";
+			chapterCount = 22;
+			break;
+		case 12: 
+			bookName = "Kings2";
+			chapterCount = 25;
+			break;
+		case 13: 
+			bookName = "Chronicles1";
+			chapterCount = 29;
+			break;
+		case 14: 
+			bookName = "Chronicles2";
+			chapterCount = 36;
+			break;
+		case 15: 
+			bookName = "Ezra";
+			chapterCount = 10;
+			break;
+		case 16: 
+			bookName = "Nehemiah";
+			chapterCount = 13;
+			break;
+		case 17: 
+			bookName = "Esther";
+			chapterCount = 10;
+			break;
+		case 18: 
+			bookName = "Job";
+			chapterCount = 42;
+			break;
+		case 19: 
+			bookName = "Psalms";
+			chapterCount = 150;
+			break;
+		case 20: 
+			bookName = "Proverbs";
+			chapterCount = 31;
+			break;
+			
+		case 21: 
+			bookName = "Ecclesiastes";
+			chapterCount = 12;
+			break;
+		case 22: 
+			bookName = "Song of Songs";
+			chapterCount = 8;
+			break;
+		case 23: 
+			bookName = "Isaiah";
+			chapterCount = 66;
+			break;
+		case 24: 
+			bookName = "Jeremiah";
+			chapterCount = 52;
+			break;
+		case 25: 
+			bookName = "Lamentations";
+			chapterCount = 5;
+			break;
+		case 26: 
+			bookName = "Ezekiel";
+			chapterCount = 48;
+			break;
+		case 27: 
+			bookName = "Daniel";
+			chapterCount = 12;
+			break;
+		case 28: 
+			bookName = "Hosea";
+			chapterCount = 14;
+			break;
+		case 29: 
+			bookName = "Joel";
+			chapterCount = 3;
+			break;
+		case 30: 
+			bookName = "Amos";
+			chapterCount = 9;
+			break;
+			
+		case 31: 
+			bookName = "Obadiah";
+			chapterCount = 1;
+			break;
+		case 32: 
+			bookName = "Jonah";
+			chapterCount = 4;
+			break;
+		case 33: 
+			bookName = "Micah";
+			chapterCount = 7;
+			break;
+		case 34: 
+			bookName = "Nahum";
+			chapterCount = 3;
+			break;
+		case 35: 
+			bookName = "Habakkuk";
+			chapterCount = 3;
+			break;
+		case 36: 
+			bookName = "Zephaniah";
+			chapterCount = 3;
+			break;
+		case 37: 
+			bookName = "Haggai";
+			chapterCount = 2;
+			break;
+		case 38: 
+			bookName = "Zechariah";
+			chapterCount = 14;
+			break;
+		case 39: 
+			bookName = "Malachi";
+			chapterCount = 4;
+			break;
+			
 		case 40:
 			bookName= "Matthew";
 			chapterCount = 28;
@@ -161,7 +322,12 @@ public class BibleDO {
 	
 	public static BibleDO findBibleDOByBookName(String bn) {
 		BibleDO bo = new BibleDO() ;
-		if (bn.equals("Matthew")) {
+		if (bn.equals("Genesis")) {
+			bo.chapterCount = 50;
+			bo.index = 1;
+		}
+		
+		else if (bn.equals("Matthew")) {
 			bo.chapterCount = 28;
 			bo.index = 40;
 		}
