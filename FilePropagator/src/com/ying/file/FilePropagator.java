@@ -8,12 +8,15 @@ import java.nio.channels.FileChannel;
 
 public class FilePropagator {
 	public static void main(String args[]) {
-//		duplicateFiles("以弗所01-01-%s.mp3");
-		duplicateFiles("以弗所01-02-%s.mp3");
-		duplicateFiles("以弗所01-03-%s.mp3");
-		duplicateFiles("以弗所01-04-%s.mp3");
-		duplicateFiles("以弗所01-05-%s.mp3");
-		duplicateFiles("以弗所01-06-%s.mp3");
+		duplicateFiles("%s01-01-%s.mp3");
+		duplicateFiles("%s01-02-%s.mp3");
+		duplicateFiles("%s01-03-%s.mp3");
+		duplicateFiles("%s01-04-%s.mp3");
+		duplicateFiles("%s01-05-%s.mp3");
+		duplicateFiles("%s01-06-%s.mp3");
+		
+		System.out.println("ALL DONE");
+		
 	}
 	
 	
@@ -22,11 +25,11 @@ public class FilePropagator {
 		
 		try {
 				for (count = 1; count <11; count++) {
-					File currentFilepath = new File(String.format(fileNameTemplate, ""));
+					File currentFilepath = new File(String.format(fileNameTemplate, "", ""));
 					
 					String number = padLeadingZero(count);
 					
-					File newFilePath = new File(String.format(fileNameTemplate, number));
+					File newFilePath = new File(String.format(fileNameTemplate, "以弗所", number));
 
 					FileChannel src = new FileInputStream(currentFilepath).getChannel();
 					FileChannel dst = new FileOutputStream(newFilePath).getChannel();
