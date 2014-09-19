@@ -44,7 +44,7 @@ public class MathMaster {
 		//Katherine test
 //		String [] sets = {"37", "38"};
 		
-		String [] sets = {"42", "43", "44", "45"};
+		String [] sets = {"52"};
 		
 		printMixedSets(sets, page);
 		

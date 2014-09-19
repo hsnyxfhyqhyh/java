@@ -54,9 +54,9 @@ public class QuestionGenerator {
 			this.total = total;
 			questions = new String[total];
 			
-        	File file = new File("bin\\com\\ying\\util\\decimal\\configs.xml");
+//        	File file = new File("bin\\com\\ying\\util\\decimal\\configs.xml");
 			
-			//File file = new File("bin\\configs.xml");
+			File file = new File("bin\\configs.xml");
         	
 			FileInputStream fis = new FileInputStream(file);
 			XMLInputFactory xif = XMLInputFactory.newInstance();

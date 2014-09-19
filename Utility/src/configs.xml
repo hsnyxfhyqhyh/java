@@ -615,4 +615,23 @@
 			<sumMax>999999</sumMax>
 		</numbers>
 	</config>
+	
+	<config set="52">
+		<style>1</style>
+		<format>HTMLVertical3ColumnFormatter</format>
+		<operators>
+			<operator>×</operator>
+		</operators>
+		<numbers>
+			<firstNumber>
+				<max>50</max>
+				<min>11</min>
+			</firstNumber>
+			<secondNumber>
+				<max>50</max>
+				<min>20</min>
+			</secondNumber>
+			<sumMax>30</sumMax>
+		</numbers>
+	</config>
 </MathGenerator>
