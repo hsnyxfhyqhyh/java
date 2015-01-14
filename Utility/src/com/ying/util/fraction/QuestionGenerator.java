@@ -1,5 +1,11 @@
 package com.ying.util.fraction;
 
+/***************************************************************
+ * History: 
+ * 		1/14/2015 - add variable isComplicated to represent Â§çÂàÜÊï∞ when value is true
+ **************************************************************/
+
+
 import java.io.*;
 import java.lang.Math;
 import java.util.List;
@@ -45,10 +51,12 @@ public class QuestionGenerator {
 	private int wholef;
 	private int wholes;
 	
+	private boolean isComplicated = false;
+	
 	private static final String OPERATOR_ADDITION = "+";
 	private static final String OPERATOR_SUBTRACTION = "-";
-	private static final String OPERATOR_MULTIPLICATION = "◊";
-	private static final String OPERATOR_DIVISION = "˜";
+	private static final String OPERATOR_MULTIPLICATION = "ÔøΩ";
+	private static final String OPERATOR_DIVISION = "ÔøΩ";
 	
 	private static boolean debug = true;
 	
@@ -114,7 +122,12 @@ public class QuestionGenerator {
 			OMElement eSecondNumberBottomMin = (OMElement) xSecondNumberBottomMin.selectSingleNode(root);
 			bmins = Integer.parseInt(eSecondNumberBottomMin.getText());
 			
-
+			AXIOMXPath xIscomplicated = new AXIOMXPath(xpathConfig + "//isComplicated");
+			OMElement eIscomplicated = (OMElement) xIscomplicated.selectSingleNode(root);
+			if (Integer.parseInt(eIscomplicated.getText())==1) {
+				isComplicated = true;
+			}
+			
 			println(tmaxf);
 			println(tminf);
 			println(bmaxf);
@@ -168,7 +181,8 @@ public class QuestionGenerator {
 //			}
 //		}
 		
-		return formatQuestion(firstNumbertop, firstNumberbottom, operator, secondNumbertop, secondNumberbottom);
+		String fQuestion = formatQuestion(firstNumbertop, firstNumberbottom, operator, secondNumbertop, secondNumberbottom); 
+		return fQuestion ;
 	}
 	
 	private boolean isValidQuestion(int firstNumbertop, int firstNumberbottom, String operator, 
@@ -191,10 +205,17 @@ public class QuestionGenerator {
 		
 		Fraction left = new Fraction(getWholeNumber(), firstNumbertop, firstNumberbottom);
 		Fraction right = new Fraction(getWholeNumber(), secondNumbertop, secondNumberbottom);
+		
+		if (!isComplicated) {
+			left.setWhole(0);
+			right.setWhole(0);
+		}
 
 		if (operator.equals(OPERATOR_SUBTRACTION)){
 			if (left.compare(right) <0) {
-				return null;
+				Fraction temp = right;
+				right =left; 
+				left = temp;
 			}
 		}
 		
@@ -202,8 +223,17 @@ public class QuestionGenerator {
 			return null;
 		}
 		
+		if (left.getBottom() == 0 || left.getTop() ==0 ){
+			return null;
+		}
+		
+		if (right.getBottom() == 0 || right.getTop() ==0 ){
+			return null;
+		}
+		
 		String fOperator = " " + operator + " ";
 		
+		println(left.toString() + fOperator + right.toString());
 		
 		StringBuffer sb = new StringBuffer();
 		sb.append("<table cellspacing=0 cellpadding=0>");

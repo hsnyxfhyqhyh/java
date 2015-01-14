@@ -24,6 +24,8 @@
 				<bottommin>1</bottommin>
 			</secondNumber>
 		</numbers>
+		
+		<isComplicated>0</isComplicated>
 	</config>
 	
 </MathGenerator>

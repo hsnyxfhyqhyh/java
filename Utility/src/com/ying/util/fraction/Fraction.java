@@ -5,6 +5,10 @@ public class Fraction {
 	public int getWhole() {
 		return whole;
 	}
+	
+	public void setWhole(int whole) {
+		this.whole = whole;
+	}
 
 	public int getTop() {
 		return top;
