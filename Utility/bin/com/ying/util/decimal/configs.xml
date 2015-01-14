@@ -13,7 +13,19 @@
 		<numbers>
 			<min>1</min>
 			<max>1000</max>
-			<decimalDigitsMax>5</decimalDigitsMax>
+			<decimalDigitsMax>3</decimalDigitsMax>
+		</numbers>
+	</config>
+	<config set="2">
+		<format>HTML3ColumnFormatter</format>
+		<operators>
+			<operator>+</operator>
+			<operator>-</operator>
+		</operators>
+		<numbers>
+			<min>1</min>
+			<max>1000</max>
+			<decimalDigitsMax>3</decimalDigitsMax>
 		</numbers>
 	</config>
 	
