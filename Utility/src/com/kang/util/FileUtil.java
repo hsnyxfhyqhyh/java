@@ -52,4 +52,30 @@ public class FileUtil {
 
 		return lines;
 	}
+	
+	//Remove blank line and line starts with comment symbol 
+	public static ArrayList filterLines(ArrayList lines, String commentLineStarter) {
+		ArrayList resultLines = new ArrayList();
+		
+		for (int i = 0; i < lines.size(); i++) {
+			String line = lines.get(i) + ""; 
+			if (line.startsWith(commentLineStarter)){
+				//Do nothing
+			} else if (line.trim().equals("")){
+				//Do nothing
+			} else {
+				resultLines.add(line);
+			}
+		}
+		
+		return resultLines;
+	}
+	
+	//print out the lines
+	public static void printLines(ArrayList lines) {
+		for (int i = 0; i < lines.size(); i++) {
+			System.out.println(lines.get(i));
+		}
+	}
+	
 }

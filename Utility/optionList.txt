@@ -1,2 +1,21 @@
-stock=SPX#startPrice=196#endPrice=211#increment=1#date=160506
-stock=SPX#startPrice=196#endPrice=211#increment=1#date=160513
+## COMMENT: loop through line by line 
+## create option in both put/call with the current price in the middle until price difference is matched. 
+## if HalfDollar Flag is "true" , create half dollar option line as well 
+## When running the batch , a date of the target week should be an input parameter, otherwise use the nextweek as default
+## Line starts with "##" will be ignored, same for blank line. 
+
+## Friday options -- weekday =5
+
+Stock=AAPL#CurrentPrice=116#PriceDifference=6#HalfDollarFlag=false#WeekDay=5
+Stock=FB#CurrentPrice=116#PriceDifference=6#HalfDollarFlag=false#WeekDay=5
+Stock=GLD#CurrentPrice=111#PriceDifference=6#HalfDollarFlag=false#WeekDay=5
+Stock=BABA#CurrentPrice=88#PriceDifference=6#HalfDollarFlag=false#WeekDay=5
+Stock=XBI#CurrentPrice=60#PriceDifference=6#HalfDollarFlag=false#WeekDay=5
+
+Stock=SPY#CurrentPrice=223#PriceDifference=6#HalfDollarFlag=true#WeekDay=5
+Stock=GDX#CurrentPrice=21#PriceDifference=6#HalfDollarFlag=true#WeekDay=5
+Stock=XOP#CurrentPrice=41#PriceDifference=6#HalfDollarFlag=true#WeekDay=5
+
+## Wednesday options -- weekday =3
+
+Stock=SPY#CurrentPrice=223#PriceDifference=6#HalfDollarFlag=true#WeekDay=3
