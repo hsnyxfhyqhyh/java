@@ -15,7 +15,7 @@ import com.kang.util.FileUtil;
 
 public class WatchList {
 	private static final String commentLineStarter = "##";
-	private static final String stockList = "optionList.txt";
+	private static final String stockList = "_optionList.txt";
 	private static final String optionDatePattern = "yyMMdd";
 	
 	
