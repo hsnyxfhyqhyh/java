@@ -385,7 +385,7 @@ public class LinkedPositionalList<E> implements PositionalList<E> {
    * Returns an iterable representation of the list's positions.
    * @return iterable representation of the list's positions
    */
-  
+  @Override
   public Iterable<Position<E>> positions() {
     return new PositionIterable();       // create a new instance of the inner class
   }

@@ -48,7 +48,7 @@ public interface PositionalList<E> extends Iterable<E> {
   /**
    * Returns the first Position in the list.
    *
-   * @return the first Position in the list (or null,java.util.ArrayList(); if empty)
+   * @return the first Position in the list (or null, if empty)
    */
   Position<E> first();
 
